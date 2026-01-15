@@ -1,14 +1,25 @@
-# Bakery
+# 🍞  Bakery Website
 
-A simple static bakery website built using **HTML** and **CSS**.
+A simple bakery website built using **HTML5** and **CSS3**, 
+
+🔗 **Live Demo:**  
+https://ammarelshafey.github.io/Bakery/
 
 ---
 
-## Technologies Used
-- HTML
-- CSS
-- Google Fonts  
-- Font Awesome  
+## 📌 Project Overview
+
+The  Bakery website is a multi-section landing page designed for a bakery business.  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts
+- Font Awesome
+- Git & GitHub
 
 ---
 
@@ -22,7 +33,7 @@ A simple static bakery website built using **HTML** and **CSS**.
 
 ---
 
-## Author
-Ammar Said Elshafey
+## 👤 Author
+**Ammar Elshafey**  
 
 
