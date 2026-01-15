@@ -2,7 +2,7 @@
 
 A simple bakery website built using **HTML5** and **CSS3**, 
 
-🔗 **Video in LinkedIn:**   [Bakery](https://www.linkedin.com/posts/ammar-elshafey_laravel-webdevelopment-iti-activity-7373628074124550144-7C7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG7fPMBPw-tuyzdZTyA_0BXjmjzir0xpqw)
+🔗 **Video in LinkedIn:**   [Bakery](https://www.linkedin.com/posts/ammar-elshafey_html-css-webdevelopment-ugcPost-7417629258241617920-A4_0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG7fPMBPw-tuyzdZTyA_0BXjmjzir0xpqw)
 
 🔗 **Live Demo:**  
 https://ammarelshafey.github.io/Bakery/
