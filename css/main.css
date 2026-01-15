@@ -1,0 +1,333 @@
+body {
+  font-family: "Alegreya Sans", sans-serif;
+  margin: 0;
+}
+.fix-clear {
+  clear: both;
+}
+#home {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url(../images/bg-home.jpg);
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+}
+#home nav {
+  width: 100%;
+  background-color: transparent;
+  padding: 0 60px;
+}
+
+nav .image {
+  float: left;
+  margin-left: 90px;
+}
+
+nav .image img {
+  height: 50px;
+  margin-top: 15px;
+}
+
+nav .links {
+  float: right;
+  margin-right: 220px;
+}
+
+nav .links a {
+  text-decoration: none;
+  color: white;
+  margin-left: 25px;
+  line-height: 80px;
+  font-size: 22px;
+  transition: color 0.3s ease;
+}
+nav .links a:hover {
+  color: #e0c690;
+}
+
+#home .content {
+  text-align: center;
+  color: white;
+  margin-top: 200px;
+}
+#home .content h1 {
+  font-family: "Alegreya", serif;
+  font-size: 76px;
+  font-weight: 400;
+  margin: 20px 0;
+}
+#home .content span {
+  font-size: 22px;
+}
+#home .content p {
+  font-size: 24px;
+  line-height: 44px;
+}
+#home .content button {
+  color: white;
+  text-align: center;
+  font-size: 17px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px 5px;
+  transition: all 0.3s ease;
+}
+#home .content button:hover {
+  background-color: white;
+  color: black;
+}
+
+#home .content .btn1 {
+  background-color: #8e7754;
+  border: 2px solid #8e7754;
+}
+#home .content .btn2 {
+  background-color: transparent;
+  border: 2px solid white;
+}
+/* Section2 -------------------------------*/
+#about {
+  margin: 80px;
+}
+#about .image {
+  width: 45%;
+  margin: 20px;
+  float: left;
+  padding-right: 30px;
+}
+#about .image img {
+  width: 90%;
+  margin-left: 40px;
+}
+#about .content2 {
+  margin: 20px;
+}
+#about .content2 h2 {
+  padding-top: 60px;
+  font-family: "Alegreya", serif;
+  margin-bottom: 30px;
+  font-weight: 400;
+}
+#about .content2 p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+  margin-bottom: 40px;
+}
+#about .content2 ul {
+  list-style: none;
+}
+#about .content2 ul li {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+  margin-bottom: 20px;
+  padding-left: 25px;
+}
+#about .content2 ul li i {
+  color: #8e7754;
+  margin: 0px 20px;
+}
+/* Section3 -------------------------------*/
+#location {
+  background-color: #f8f8f8;
+  margin-top: 50px;
+  overflow: hidden;
+}
+#location .content3 {
+  float: left;
+  width: 40%;
+  padding-left: 120px;
+  margin: 20px;
+  padding-top: 80px;
+}
+#location .content3 h2 {
+  margin-top: 80px;
+  font-family: "Alegreya", serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: rgb(48, 48, 48);
+}
+#location .content3 p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+}
+
+#location .image2 {
+  padding-block: 80px;
+  padding-right: 60px;
+  width: 42%;
+  float: right;
+}
+#location .image2 img {
+  width: 90%;
+}
+/* Section4 -------------------------------*/
+
+#our_baking {
+  margin-top: 30px;
+}
+#our_baking .content4 {
+  padding-block: 30px;
+  text-align: center;
+}
+#our_baking .content4 h2 {
+  font-family: "Alegreya", serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: rgb(48, 48, 48);
+}
+#our_baking .content4 p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+}
+#our_baking .foods {
+  margin-left: 120px;
+}
+#our_baking .foods .prod {
+  float: left;
+  width: 25%;
+  margin-left: 50px;
+  text-align: center;
+}
+#our_baking .foods .prod img {
+  display: inline-block;
+  width: 100%;
+}
+#our_baking .foods .prod h3 {
+  font-family: "Alegreya", serif;
+  font-weight: 400;
+  color: rgb(48, 48, 48);
+}
+#our_baking .foods .prod p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+}
+/* Section5 -------------------------------*/
+#contact {
+  background-color: #f8f8f8;
+  margin-top: 50px;
+  overflow: hidden;
+}
+#contact .content4 {
+  float: left;
+  width: 45%;
+  padding-left: 120px;
+}
+#contact .content4 h2 {
+  margin-top: 80px;
+  font-family: "Alegreya", serif;
+  font-size: 32px;
+  font-weight: 400;
+  color: rgb(48, 48, 48);
+}
+#contact .content4 p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+}
+#contact .content4 ul {
+  list-style: none;
+}
+#contact .content4 ul li {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(104, 104, 104);
+  margin-bottom: 20px;
+}
+#contact .content4 ul li i {
+  background-color: #9c7a4f;
+  color: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  margin-right: 12px;
+}
+#contact .map {
+  padding-block: 80px;
+  padding-right: 60px;
+  width: 42%;
+  float: right;
+}
+#contact .map iframe {
+  width: 100%;
+  height: 450px;
+}
+/* Section6 -------------------------------*/
+#all {
+  background-color: #403d38;
+  margin-top: 50px;
+  overflow: hidden;
+  padding-left: 140px;
+}
+#all .col {
+  float: left;
+  width: 23%;
+  padding-block: 40px;
+}
+#all .col h3 {
+  font-family: "Alegreya", serif;
+  font-weight: 400;
+  color: white;
+  margin-left: 40px;
+}
+#all .col p,
+li {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(150, 150, 150);
+}
+#all .col ul {
+  list-style: none;
+}
+/* footer -------------------------------*/
+footer {
+  background-color: #353330;
+  overflow: hidden;
+  padding-block: 60px;
+}
+footer .image {
+  text-align: center;
+}
+footer p {
+  font-size: 17px;
+  line-height: 32px;
+  color: rgb(119, 119, 119);
+  text-align: center;
+}
+footer .icons {
+  text-align: center;
+}
+footer .icons a i {
+  background-color: #484540;
+  color: #aaa;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+footer .icons a i.fa-facebook-f:hover {
+  background-color: #3b5998;
+  color: white;
+}
+footer .icons a i.fa-google-plus-g:hover {
+  background-color: #dd4b39;
+  color: white;
+}
+footer .icons a i.fa-linkedin-in:hover {
+  background-color: #007bb5;
+  color: white;
+}
+footer .icons a i.fa-twitter:hover {
+  background-color: #00aced;
+  color: white;
+}
