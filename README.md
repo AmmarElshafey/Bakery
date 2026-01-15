@@ -34,6 +34,6 @@ The  Bakery website is a multi-section landing page designed for a bakery busine
 ---
 
 ## 👤 Author
-**Ammar Elshafey**  
+**Ammar Said Elshafey**  
 
 
